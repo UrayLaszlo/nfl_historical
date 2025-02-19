@@ -3,6 +3,8 @@ Historical analysis of NFL games, teams
 
 Feature Engineering on Sports Dataset
 
+Check out the vizzes of this data - https://public.tableau.com/app/profile/laszlo.uray3704/vizzes
+
 Overview
 
 This project applies feature engineering techniques to a historical sports dataset, focusing on American football. The objective is to create additional features that enhance predictive analysis and data insights.
