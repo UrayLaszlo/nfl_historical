@@ -21,9 +21,11 @@ score_total: Total score of the game.
 
 over_or_under: Categorization for Over/Under betting analysis.
 
+New DFs
+
 df_regular_season_records: New DataFrame containing regular season records.
 
 df_playoff_records: New DataFrame containing playoff records.
 
-mean_scores_df: DataFrame with mean scores for regular season and playoff games.
+mean_scores_with_z_df: DataFrame with mean scores and z-scores for regular season and playoff games.
 
